@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.4rem;
+  font-family: "Arial", sans-serif;
+}
+
+/* Notification */
+.notification {
+  background-color: #0041be;
+  color: #fff;
+}
+
+.notification-bar {
+  background: #fff;
+}
+
+.Toastify__close-button--default {
+  color: #fff !important;
+}
